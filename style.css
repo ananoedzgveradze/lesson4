@@ -1,0 +1,156 @@
+
+.section {
+    width: 1080px;
+    height: 376px;
+    margin: 0 auto;
+    margin-top: 82px;
+}
+
+.first-div {
+    width: 498px;
+    height: auto;
+}
+
+.title-1 {
+    font-size: 14px;
+    color: #5863F8;
+    font-family: "Arial GEO Bold", sans-serif;
+
+}
+.title-2 {
+    margin-top: 10px;
+    font-size: 42px;
+    color: #000000;
+    font-weight: bold;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+
+.maindiv {
+    width: 1088px;
+    height: 190px;
+    margin-top: 63px;
+    display: inline-block;
+}
+
+/*პირველი სურათი*/
+
+
+.left-block {
+    display: inline-block;
+    width: 536px;
+    height: 190px;
+    display: inline-block;
+    background-color:#F8F8F8 ;
+}
+
+.text1 {
+    width: 260px;
+    display: inline-block;
+	margin: 37px 0px 0px 16px;
+    vertical-align: top;
+
+}
+
+.fishtitle1 {
+    font-size: 14px;
+    color: #5863F8;
+    display:inline-block;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+
+.fishtitle2 {
+    margin-top: 5px;
+    font-size: 18px;
+    color: #000000;
+    display:inline-block;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+
+.fishtitle3 {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #B1B1B1;
+    display:inline-block;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+
+/*მეორე სურათი*/
+ 
+.right-block {
+   
+    width: auto;
+    height: 190px;
+    display: inline-block;
+    background-color:#BE2B2B;
+}
+
+.text2 {
+    width: 360px;
+    display: inline-block;
+	margin: 37px 0px 0px 16px;
+    vertical-align: top;
+}
+
+
+
+
+.maindiv2 {
+    width: 1088px;
+    height: 360px;
+    margin-top: 63px;
+    margin-bottom: 154px;
+    display: inline-block;
+
+}
+
+.left-block1 {
+    display: inline-block;
+    width: 352px;
+    height: 355px;
+    background-color:#F8F8F8 ;
+}
+
+.stone {
+    width: 352px;
+    height: 212px;
+}    
+
+
+
+
+.bottomtitle1 {
+    font-size: 14px;
+    color: #5863F8;
+    font-family: "Arial GEO Bold", sans-serif;
+    ;
+    margin-top: 23px;
+    text-align: center;
+}
+
+.bottomtitle2 {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #000000;
+    text-align: center;
+    font-family: "Arial GEO Bold", sans-serif;
+    
+}
+
+
+
+.bottomtitle3 {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 14px;
+    color: #B1B1B1;
+    font-family: "Arial GEO Bold", sans-serif;
+}
+
+
+.left-block2 {
+    background-color: #F8F8F8;
+    width: 352px;
+    height: 355px;
+    display: inline-block;
+    margin-left: 12px;
+}
